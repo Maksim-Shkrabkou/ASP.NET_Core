@@ -14,3 +14,9 @@ This repository contains the code samples of *ASP.NET Core*
 * *ExceptionHandlerMiddleware* - Handling exceptions in production: the ExceptionHandlerMiddleware
 * *StatusCodePages* - Handling other errors: the StatusCodePagesMiddleware
 * *StatusCodePagesWithRexecute* - Handling other errors: the StatusCodePagesMiddleware. Reexecuting the pipeline to create custom status code pages
+
+## [Chapter 4](https://github.com/Maksim-Shkrabkou/ASP.NET_Core/tree/main/Chapter_4)
+* *ATypicalRazorPage* - Exploring a Simple Razor Page
+* *AddingRazorPagesToEmptyProject* - Adding Razor Pages to an "Empty" web application template
+* *ConvertingToMvc* - An MVC application, with separate Model, View, and Controller files
+* *PageHandlers* - Using different Razor Page handlers to handle different HTTP verbs (`GET` and `POST`)
